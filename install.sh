@@ -19,20 +19,20 @@ wget -nc http://newyork.kapeli.com/feeds/C++.tgz
 tar -xf C++.tgz
 
 ## CMake
-#wget -nc http://newyork.kapeli.com/feeds/CMake.tgz
-#tar -vf CMake.tgz
+wget -nc http://newyork.kapeli.com/feeds/CMake.tgz
+tar -xf CMake.tgz
 
 ## OpenCV C
-#wget -nc http://london.kapeli.com/feeds/OpenCV_C.tgz
-#tar -vf OpenCV_C.tgz
+wget -nc http://london.kapeli.com/feeds/OpenCV_C.tgz
+tar -xf OpenCV_C.tgz
 
 ## OpenCV C++
-#wget -nc http://london.kapeli.com/feeds/OpenCV_C++.tgz
-#tar -vf OpenCV_C++.tgz
+wget -nc http://london.kapeli.com/feeds/OpenCV_C++.tgz
+tar -xf OpenCV_C++.tgz
 
 ## OpenCV Python
-#wget -nc http://sanfrancisco.kapeli.com/feeds/OpenCV_Python.tgz
-#tar -vf OpenCV_Python.tgz
+wget -nc http://sanfrancisco.kapeli.com/feeds/OpenCV_Python.tgz
+tar -xf OpenCV_Python.tgz
 
 ## OpenGL 4
 #wget -nc http://sanfrancisco.kapeli.com/feeds/OpenGL_4.tgz
@@ -47,8 +47,8 @@ wget -nc http://frankfurt.kapeli.com/feeds/Qt_5.tgz
 tar -xf Qt_5.tgz
 
 ## R
-#wget -nc http://london.kapeli.com/feeds/R.tgz
-#tag -xf R.tgz
+wget -nc http://london.kapeli.com/feeds/R.tgz
+tag -xf R.tgz
 
 ## Emacs Lisp
 wget -nc http://sanfrancisco.kapeli.com/feeds/Emacs_Lisp.tgz
